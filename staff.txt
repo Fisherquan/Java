@@ -1,0 +1,3 @@
+MS001,John Doe,Managing Staff,john@apu.edu,+123456789,Active
+SL001,Jane Smith,Salesman,jane@apu.edu,+987654321,Active 
+MS003,joel,Salesman,joel@gmail.com,013452367,Active

@@ -1,0 +1,5 @@
+CAR001,Toyota,Camry,2024,35000,Available
+CAR002,Honda,Civic,2024,28000,Available
+CAR003,BMW,3 Series,2023,45000,Sold
+CAR004,Mercedes,C-Class,2024,50000,Available 
+CAR005,fqqfq,dddd,2022,324536,Reserved
